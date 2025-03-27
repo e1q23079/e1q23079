@@ -6,13 +6,13 @@
 
 # Language
 ![](https://skillicons.dev/icons?i=c,java,py,arduino,ruby)
-# front-end
+# Front-end
 ![](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,npm)
-# back-end
+# Back-end
 ![](https://skillicons.dev/icons?i=flask,docker,mysql,sqlite,nginx,bots)
-# tools
+# Tools
 ![](https://skillicons.dev/icons?i=vscode,git,visualstudio,discord,notion,powershell,figma,postman)
-# environment
+# Environment
 ![](https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi)
-# others
+# Others
 ![](https://skillicons.dev/icons?i=md,svg,opencv,pytorch)
