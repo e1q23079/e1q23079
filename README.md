@@ -9,7 +9,7 @@
 # Front-end
 ![](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,npm)
 # Back-end
-![](https://skillicons.dev/icons?i=docker,flask,mysql,sqlite,nginx,bots)
+![](https://skillicons.dev/icons?i=docker,flask,nodejs,express,mysql,sqlite,nginx,bots)
 # Tools
 ![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,discord,notion,powershell,figma,postman)
 # Environment
