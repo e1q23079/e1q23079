@@ -11,7 +11,7 @@
 # Back-end
 ![](https://skillicons.dev/icons?i=docker,flask,nodejs,express,mysql,sqlite,nginx,bots,azure)
 # Tools
-![](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,npm,githubactions,discord,notion,powershell,bash,figma,postman)
+![](https://skillicons.dev/icons?i=git,github,githubactions,vscode,visualstudio,androidstudio,npm,discord,notion,powershell,bash,figma,postman)
 # Environment
 ![](https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi)
 # Others
