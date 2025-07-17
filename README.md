@@ -5,7 +5,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=e1q23079)
 
 # Language
-![](https://skillicons.dev/icons?i=c,py,java,js,arduino,ruby)
+![](https://skillicons.dev/icons?i=c,py,java,js,ts,arduino,ruby)
 # Front-end
 ![](https://skillicons.dev/icons?i=html,css,bootstrap,js,react)
 # Back-end
