@@ -7,7 +7,7 @@
 # Language
 ![](https://skillicons.dev/icons?i=c,py,java,js,ts,arduino,ruby)
 # Front-end
-![](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vue)
+![](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vue,vuetify)
 # Back-end
 ![](https://skillicons.dev/icons?i=docker,flask,nodejs,express,mysql,sqlite,nginx,bots,azure)
 # Tools
