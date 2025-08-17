@@ -7,11 +7,11 @@
 # Language
 ![](https://skillicons.dev/icons?i=c,py,java,js,ts,arduino,ruby)
 # Front-end
-![](https://skillicons.dev/icons?i=html,css,bootstrap,js,react)
+![](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,vue)
 # Back-end
 ![](https://skillicons.dev/icons?i=docker,flask,nodejs,express,mysql,sqlite,nginx,bots,azure)
 # Tools
-![](https://skillicons.dev/icons?i=git,github,githubactions,vscode,visualstudio,androidstudio,npm,discord,notion,powershell,bash,figma,postman)
+![](https://skillicons.dev/icons?i=git,github,githubactions,vscode,visualstudio,androidstudio,npm,discord,notion,powershell,bash,figma,postman,vercel,supabase)
 # Environment
 ![](https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi)
 # Others
