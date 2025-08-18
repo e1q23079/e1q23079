@@ -20,3 +20,5 @@
 # Links
 ### ![](https://github.com/e1q23079/portfolio/blob/main/public/files/Q23079_icon.png?raw=true) Q23079's portfolio
 [https://e1q23079.github.io/portfolio/](https://e1q23079.github.io/portfolio/)
+### ![](https://github.com/e1q23079/portfolio/blob/main/public/files/Q23079_icon.png?raw=true) Q23079's blog
+https://e1q23079.vercel.app/
