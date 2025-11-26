@@ -13,7 +13,7 @@
 # Tools
 ![](https://skillicons.dev/icons?i=git,github,githubactions,vscode,visualstudio,androidstudio,npm,discord,notion,powershell,bash,figma,postman,vercel,supabase,vim,vitest,jest)
 # Environment
-![](https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi,windows,apple)
+![](https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi,windows,apple,aws)
 # Others
 ![](https://skillicons.dev/icons?i=md,svg,opencv,pytorch)
 
